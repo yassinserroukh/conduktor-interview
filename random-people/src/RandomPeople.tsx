@@ -24,7 +24,7 @@ export const RandomPeople: React.FC<RandomPeopleProps> = ({
   ];
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [showPersonRow, setShowPersonRow] = useState<boolean>(false);
-  const [personDetails, setPersonDetails] = useState<Person>();
+  const [personDetails, setPersonDetails] = useState<Person | undefined>();
   const [recordsPerPage, setRecordsPerPage] = useState(10);
   const totalNumberOfPages = Math.ceil(peopleData.length / recordsPerPage);
   const indexOfFirstElement = currentPage * recordsPerPage - recordsPerPage;
@@ -74,9 +74,9 @@ export const RandomPeople: React.FC<RandomPeopleProps> = ({
     <div>
       {showPersonRow && (
         <PersonDetails
-          personDetails={personDetails}
           columns={columns}
           setShowPersonRow={setShowPersonRow}
+          personDetails={personDetails}
         />
       )}
       <Select value={recordsPerPage} actionHandler={recordsActionHandler} />

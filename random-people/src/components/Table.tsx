@@ -4,7 +4,7 @@ import { PersonRow } from "../types.ts";
 interface TableProps {
   columns: PersonRow[];
   records: object[];
-  actionHandler: ChangeEventHandler<HTMLSelectElement>;
+  rowActionHandler: any;
 }
 
 export const Table: React.FC<TableProps> = ({

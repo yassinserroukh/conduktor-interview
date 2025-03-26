@@ -3,7 +3,7 @@ import { Person, PersonRow } from "../types.ts";
 
 interface PersonDetailsProps {
   columns: PersonRow[];
-  personalDetails: Person;
+  personDetails: Person | undefined;
   setShowPersonRow: React.Dispatch<React.SetStateAction<boolean>>;
 }
 

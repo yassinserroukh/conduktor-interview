@@ -1,7 +1,7 @@
 import React, { ChangeEventHandler } from "react";
 
 interface SelectProps {
-  value: string;
+  value: number;
   actionHandler: ChangeEventHandler<HTMLSelectElement>;
 }
 
