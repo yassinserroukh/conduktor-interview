@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56803d44-7829-4a9e-9ec8-dff9e870855d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random-people/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ulnYHATJLgqsuRVzusR71OCa58" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Yassin/personal/conduktor-interview",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="LiferayServerConfiguration" factoryName="Liferay Server">
+      <Liferay-Sever alternativeJrePath="" bundleLocation="" bundleType="" developerMode="true" gogoShellPort="11311" vmParameters="-Xmx2560m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56803d44-7829-4a9e-9ec8-dff9e870855d" name="Changes" comment="" />
+      <created>1742832074330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742832074330</updated>
+      <workItem from="1742832076020" duration="432000" />
+      <workItem from="1742832524894" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
